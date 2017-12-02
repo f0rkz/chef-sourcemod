@@ -1,6 +1,6 @@
 # chef-sourcemod Cookbook
 
-[![Build Status](https://travis-ci.org/f0rkz/chef-sourcemod.svg?branch=master)](https://travis-ci.org/f0rkz/chef-sourcemod) [![Chef cookbook](https://img.shields.io/cookbook/v/chef-sugar.svg)](https://supermarket.chef.io/cookbooks/chef-steamcmd)
+[![Build Status](https://travis-ci.org/f0rkz/chef-sourcemod.svg?branch=master)](https://travis-ci.org/f0rkz/chef-sourcemod) [![Cookbook Version](https://img.shields.io/cookbook/v/chef-sourcemod.svg)](https://supermarket.chef.io/cookbooks/chef-sourcemod)
 
 LWRP resource for installing Metamod and Sourcemod into a gameserver directory.
 
