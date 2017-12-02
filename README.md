@@ -1,5 +1,7 @@
 # chef-sourcemod Cookbook
 
+[![Build Status](https://travis-ci.org/f0rkz/chef-sourcemod.svg?branch=master)](https://travis-ci.org/f0rkz/chef-sourcemod)
+
 LWRP resource for installing Metamod and Sourcemod into a gameserver directory.
 
 # Usage
